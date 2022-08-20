@@ -7,8 +7,7 @@ from constructs import Construct
 
 from aws_cdk import (
     Stack,
-    aws_ec2 as ec2,
-    CfnTag,
+    aws_ec2 as ec2
 )
 
 
