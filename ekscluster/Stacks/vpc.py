@@ -2,7 +2,6 @@
 # author: Gary Louis Stewart
 # date: 11-08-2022
 
-from ctypes import Union
 from constructs import Construct
 
 from aws_cdk import (
